@@ -83,6 +83,9 @@ color: rgb(0, 0, 0);</string>
         <property name="text">
          <string>Criar flag em edificações não generalizadas</string>
         </property>
+        <property name="autoExclusive">
+         <bool>true</bool>
+        </property>
        </widget>
       </item>
      </layout>
